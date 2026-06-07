@@ -1,24 +1,22 @@
-# Bückeburg Regional Archive's Archival Organization
+# Bückeburg Archive: Organization of Holdings
 
-The organization of the Bückeburg Abteilung des Niedersächischen Landarchiv
-is along these lines.
+The organization of the Bückeburg regional archive is along these lines.
 
-For a particular archival file's identifier in the Bückeburg Abteilung
-(Branch) des Niedersächisches Landesarchiv, say, **NLA BU, L 2, L Nr.
-27/28**, the breakdown of each segment of the identifier is as follows:
+For a particular archival file's identifier, say, for example, 
+**NLA BU, L 2, L Nr.  27/28**, the breakdown of each segment is as follows:
 
 **NLA BU**
-This means **Niedersächisches Landesarchiv, Abteilung Bückeburg** — the
-Bückeburg department of the Lower Saxony State Archives.
+**NLA BU** = **Niedersächisches Landesarchiv, Abteilung Bückeburg** — the
+Bückeburg regional department of the Lower Saxony State Archives.
 
 **L**
-This is an **Abteilung** in the holdings-structure sense. It is a top-level
-archival division within the Bückeburg archive. In this case, it means the
-broad division for Schaumburg-Lippe governmental records.
+**L** is an **Abteilung** (division), a top-level archival division within
+the Bückeburg archive, that contains Schaumburg-Lippe governmental records.
 
 **L 2**
-This is the **Bestand**. In English, you can think of it as the **fonds**
-or **record group**. It is the specific fonds-level record body within the
+**L 2** is the **Bestand**. In English, you can think of it as the
+**fonds** **Fonds** is the boyd of records from a particular
+creator-entity. It is the specific fonds-level body of records within the
 larger **L** division.
 
 **L Nr. 27/28**
@@ -27,11 +25,7 @@ This is the specific file or item reference. It is part of the
 document.
 
 **Gliederung**
-This is not one single piece of the citation. It means the overall
-hierarchy or arrangement structure — that is, the way Arcinsys shows the
-document nested inside broader levels.
-
-So the relationship is:
+Gliederung means the **hierarchival arrangement**.
 
 **NLA BU** is the archive department.
 Inside NLA BU is the top-level holdings division **L**.
