@@ -45,10 +45,13 @@ sphinx:
     intersphinx_mapping: 
       nla:
         - "https://nla.krueckeberg.org/"
-        - "https://nla.krueckeberg.org/objects.inv"
+        - null
       immanuel:
         - "https://imm.krueckeberg.org/"
-        - "https://imm.krueckeberg.org/objects.inv"
+        - null 
+      genealogy:
+        - "https://gen.krueckeberg.org/"
+        - null  
 
     myst_enable_extensions:
       - colon_fence
