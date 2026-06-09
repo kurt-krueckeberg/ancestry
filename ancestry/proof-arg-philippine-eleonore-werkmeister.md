@@ -233,7 +233,7 @@ This summarizes the key findings.
    :header-rows: 1
 
    * - Baptism
-   * - [4 May 1783](../petzen/PET-B-1783a.md)
+   * - {external+genealogy:doc}`4 May 1783<petzen/PET-B-1783a>`
    ```
    
    <u>Key finding</u>: Caroline Dorothee Krückeberg’s baptism also lists the mother as **Philippine Leonore geb. Blecken aus N. 11 in Evesen**.
@@ -246,7 +246,7 @@ This summarizes the key findings.
 
    remain unchanged. 
 
-5. [*Baptism Record (4 May 1783, Evesen Parish)*](../petzen/PET-B-1783a.md) of **Philippina Eleonore Werkmeister**, daughter
+5. {external+genealoy:doc}`Baptism Record (4 May 1783, Evesen Parish)<petzen/PET-B-1783a>` of **Philippina Eleonore Werkmeister**, daughter
    of **Tönnies Werkmeister** of **Evesen No. 11** tells us:
 
    ```text
