@@ -71,7 +71,7 @@ This summarizes the key findings.
      - 13 May 1838
    * - **Bride**
      - Philippine Eleonore Werkmeister
-     - {external+genealogy:doc}`4 May 1783 <petzen/PET-B-1783a.md>`
+     - {external+genealogy:doc}`4 May 1783 <petzen/PET-B-1783a>`
      - 16 Dec. 1840
    ```
 
