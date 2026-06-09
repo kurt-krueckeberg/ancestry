@@ -5,12 +5,6 @@ format: jb-book
 root: research/index
 chapters:
   - file: ancestry/proof-arg-philippine-eleonore-werkmeister
-
-#  - file  title: The Identity of Carl Friedrich Gottlieb Krückeberg's Wife: research/general-research-plan
-#  - file: research/census-like-records-1728-1750
-#  - file: research/other-research-leads
-
-#
-#
-
-
+  - file  title: The Identity of Carl Friedrich Gottlieb Krückeberg's Wife: research/general-research-plan
+  - file: research/census-like-records-1728-1750
+  - file: research/other-research-leads
