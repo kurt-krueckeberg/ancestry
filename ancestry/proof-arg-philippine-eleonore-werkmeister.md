@@ -39,7 +39,7 @@ county, Indiana[^note3].
 
 This summarizes the key findings.
 
-1. The [*Marriage Record (13 March 1803, Petzen Parish)*](../petzen/PET-M-1803a.md) when Carl Friedrich Gottlieb Krückeberg married **Jungfrau Philippine Eleonore Werkmeister** of **Evesen No. 11** tells us:
+1. The {external+genealogy:doc}`Marriage Record (13 March 1803, Petzen Parish)`<petzen/PET-M-1803a>` when Carl Friedrich Gottlieb Krückeberg married **Jungfrau Philippine Eleonore Werkmeister** of **Evesen No. 11** tells us:
 
    ```{list-table} Facts for March 13, 1803 Marriage
    :header-rows: 1
