@@ -246,7 +246,7 @@ This summarizes the key findings.
 
    remain unchanged. 
 
-5. {external+genealoy:doc}`Baptism Record (4 May 1783, Evesen Parish) <petzen/PET-B-1783a>` of **Philippina Eleonore Werkmeister**, daughter
+5. {external+genealogy:doc}`Baptism Record (4 May 1783, Evesen Parish) <petzen/PET-B-1783a>` of **Philippina Eleonore Werkmeister**, daughter
    of **Tönnies Werkmeister** of **Evesen No. 11** tells us:
 
    ```text
