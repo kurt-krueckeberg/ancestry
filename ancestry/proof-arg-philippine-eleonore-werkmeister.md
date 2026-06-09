@@ -172,7 +172,7 @@ This summarizes the key findings.
    the mother's maiden is now **Blecken**, her given name, Philippine Lenore, and her residence of no. 11 Evesen prior to marriage
    match the March 13, 1803, marriage record.
 
-4. [*Baptism of Third Child (2 December 1812)*](../petzen/PET-B-1812a.md)
+4. {external+genealogy:doc}`Baptism of Third Child (2 December 1812)<petzen/PET-B-1812a>`
 
    ```{list-table} Baptism Facts
    :header-rows: 1
@@ -225,8 +225,8 @@ This summarizes the key findings.
 
    * - Baptism
      - Marriage
-   * - [18 Apr. 1779](../petzen/PET-B-1779b.md)
-     - [13 Mar. 1803](../petzen/PET-M-1803a.md)
+   * - {external+genealoy:doc}`18 Apr. 1779<petzen/PET-B-1779b>`
+     - {external+genealoy:doc}`13 Mar. 1803<petzen/PET-M-1803a>`
    ```
 
    ```{list-table} Nachträge for Philippine Leonore née Bleeke, mother of Carloline Dorothee Krückeberg
