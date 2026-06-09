@@ -81,7 +81,7 @@ This summarizes the key findings.
    * Baptism date: **4 May 1783**
    * Death date: **16 December 1840**
 
-2. The [*Baptism of the couples first child (7 December 1803, Petzen Parish)*](../petzen/PET-B-1803c.md) Christine Philippine Krückeberg tells us:
+2. The {external+genealoy:doc}`Baptism of the couples first child (7 December 1803, Petzen Parish)<petzen/PET-B-1803c>` Christine Philippine Krückeberg tells us:
 
    ```{list-table} Family Group
    :header-rows: 1
@@ -112,7 +112,7 @@ This summarizes the key findings.
    <u>Key finding</u>: The 1{sup}`st` daughter of Carl Friedrich Krückeberg, Christine Philippine, is by his wife
    **Philippine née Werkmeister**. She is the mother of their first child.
 
-3. [*Baptism of Second Child (24 May 1807)*](../petzen/PET-B-1807a.md) tells us:
+3. {external+genealogy:doc}`Baptism of Second Child (24 May 1807)<petzen/PET-B-1807a>` tells us:
 
    ```{list-table} Family Group Facts
    :header-rows: 1
