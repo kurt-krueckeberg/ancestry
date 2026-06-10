@@ -6,5 +6,6 @@ root: research/index
 chapters:
   - file: ancestry/proof-arg-philippine-eleonore-werkmeister
   - file: research/general-research-plan
-  - file: research/census-like-records-1728-1750
-  - file: research/other-research-leads
+    sections:
+      - file: research/census-like-records-1728-1750
+      - file: research/other-research-leads
