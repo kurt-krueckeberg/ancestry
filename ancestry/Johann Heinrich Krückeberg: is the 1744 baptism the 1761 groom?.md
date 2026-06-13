@@ -43,3 +43,6 @@ this identification.
 For that reason, the 1744 baptism should be treated as a candidate record,
 not as proof. The proposed identity of the child baptized in 1744 and the
 groom who married in 1761 remains possible, but unproven.
+
+Addendum:
+Does the death date in 1822, which gives his age, pin point his birth year?
