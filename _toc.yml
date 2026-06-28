@@ -2,3 +2,4 @@ format: jb-book
 root: index
 chapters:
   - file: ancestry/proof-arg-philippine-eleonore-werkmeister
+  - file: ancestry/johann-heinrih-krueckeberg-identity-problem
