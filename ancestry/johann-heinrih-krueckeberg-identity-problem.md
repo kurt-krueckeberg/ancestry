@@ -1,12 +1,12 @@
 # The Johann Heinrich Krückeberg Identity problem: the 1744 baptism, 1761 marriage, and 1822 death
 
 The FamilySearch tree currently treats the Johann Henrich Krückeberg
-baptized in Petzen on {external+genealogy:doc}`January 19, 1744 <petzen/PET-B-1744a>`,
+identified in the {external+genealogy:doc}`19 January 1744 baptism record <petzen/PET-B-1744a>`,
 the Johann Heinrich Krückeberg of Berenbusch who married Anne Christine
-Elisebet Seeger of Evesen on {external+genealogy:doc}`14 June 1761 <petzen/PET-M-1761a>`,
-and the Johann Heinrich Krückeberg, Leibzüchter of No. 10 Berenbusch, who
-died in Berenbusch on {external+genealogy:doc}`21 March 1822 <petzen/PET-D-1822a>`
-and was buried in Petzen on 24 March, as the same individual. This may be
+Elisebet Seeger of Evesen in the {external+genealogy:doc}`14 June 1761 marriage record <petzen/PET-M-1761a>`,
+and the Johann Heinrich Krückeberg, Leibzüchter of No. 10 Berenbusch,
+recorded in the {external+genealogy:doc}`21 March 1822 death record <petzen/PET-D-1822a>`
+and buried in Petzen on 24 March, as the same individual. This may be
 correct, but the link from the 1744 baptism to the 1761 groom is not
 proved. If the baptized child is the 1761 groom, he would have been only
 about 17 years and 5 months old at marriage, while the bride was about 25.
