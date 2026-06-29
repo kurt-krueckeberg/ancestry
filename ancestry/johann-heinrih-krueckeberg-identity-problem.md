@@ -9,12 +9,13 @@ who married Anne Christine Elisebet Seeger of Evesen on
 No. 10 Berenbusch, who died in Berenbusch on {external+genealogy:doc}`21
 March 1822 death record <petzen/PET-D-1822a>` and was buried in Petzen on
 24 March, as the same individual. This may be correct, but the
-identification does not yet meet the Genealogical Proof Standard. The
-problem is not that the 1761 marriage could not have occurred. The problem
-is that identifying the 1744 baptized child as the 1761 groom requires
-believing that a 17-year-old male married a woman about 25 years old, while
-neither the marriage record nor any other known contemporary record
-confirms this identity by age, father, house number, guardianship,
+identification does not yet meet the [Genealogical Proof
+Standard](https://bcgcertification.org/ethics-standards#genealogical-proof-standard-gps).
+The problem is not that the 1761 marriage could not have occurred. The
+problem is that identifying the 1744 baptized child as the 1761 groom
+requires believing that a 17-year-old male married a woman about 25 years
+old, while neither the marriage record nor any other known contemporary
+record confirms this identity by age, father, house number, guardianship,
 occupation, tenancy, or another distinguishing fact. The age problem has
 therefore not been resolved by corroborating evidence. The 1822 death
 record also gives an age of 78 years, 2 months, and 3 weeks, pointing to a
@@ -29,4 +30,4 @@ identification.
   born in other parishes.
 - Add mariage adges table for three years
 
-
+## Analysis of Marriage Ages in Petzen Parish
