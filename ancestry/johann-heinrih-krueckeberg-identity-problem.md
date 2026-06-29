@@ -16,3 +16,9 @@ an age of 78 years, 2 months, and 3 weeks, pointing to a birth around 31
 December 1743, while no corresponding December 1743 baptism or birth entry
 for Johann Henrich Krückeberg has been found. The 19 January 1744 baptism
 is therefore a plausible candidate, but not a proved identification.
+
+
+Add example of Arndt Valsing and Werkmieste whose age is given but who were
+born in other parishes.
+
+Add mariage adges table for three years
