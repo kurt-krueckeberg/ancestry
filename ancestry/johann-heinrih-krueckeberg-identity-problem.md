@@ -30,7 +30,12 @@ identification.
   born in other parishes.
 - Add mariage adges table for three years
 
-## Analysis of Marriage Ages in Petzen Parish
+## Correlating Actual Marriage Ages from 17xx-17yy
+
+Use these examples
+- Vahlsing family members, the father-in-law of Johann Heinrich and his
+  brother and sister in-laws
+- Möller and Bleeke marriage
 
 ```{list-table} Petzen Marriages in ???
 :header-rows: 1
