@@ -31,3 +31,16 @@ identification.
 - Add mariage adges table for three years
 
 ## Analysis of Marriage Ages in Petzen Parish
+
+```{list-table} Petzen Marriages in ???
+:header-rows: 1
+
+* - Groom Age
+  - Groom 1`{sup`}st Marriage
+  - Bride Age
+  - Bride  1`{sup`}st Marriage
+* -
+  -
+  -
+  -
+```
