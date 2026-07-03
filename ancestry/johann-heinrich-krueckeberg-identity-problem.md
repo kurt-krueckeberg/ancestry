@@ -71,7 +71,7 @@ Use these examples
 :header-rows: 1
 
 * - Groom Age
-  - Groom 1`{sup`}st Marriage
+  - Groom 1{sup}`st` Marriage
   - Bride Age
   - Bride  1`{sup`}st Marriage
 * -
