@@ -55,24 +55,41 @@ thing as a proven groom. The problem is that the current evidence links
 them chiefly by **name + village + absence of an obvious alternative**,
 which is suggestive but not conclusive.
 
-## TODO
-- Add example of Arndt Valsing and Werkmieste whose age is given but who were
-  born in other parishes.
-- Add mariage adges table for three years
-
 ## Correlating Actual Marriage Ages from 17xx-17yy
 
-Use these examples
-- Vahlsing family members, the father-in-law of Johann Heinrich and his
-  brother and sister in-laws
-- Möller and Bleeke marriage
+Marriages recorded in the Petzen paris did not recod the ages of the bride
+and groom until the year ???.
+
+By using these examples, where the age of the bride and groom, can be
+caluclated, shows the approximate ages at marriage.
+
+Use these examples:
+
+- [Henirch Arend Vahlsing](https://www.familysearch.org/en/tree/person/details/G8S2-LTZ) and his family members.
+- [Johann Heinrich Bleke and Anna Maria Elisabeth Möller](Anna Maria Elisabeth Möller) married in 1770.
+- [Friedrich Wilhelm Weiland](Friedrich Wilhelm Weiland) 
+- [Hans Heinrich Wilharm](https://www.familysearch.org/en/tree/pedigree/portrait/G8XJ-QCC)
 
 ```{list-table} Petzen Marriages in ???
 :header-rows: 1
 
-* - Groom Age
+* - Marriage Date
+  - Groom Name
+  - Baptism Date
+  - Bride Name
+  - Bride baptism date
+* -
+  -
+  -
+  -
+```
+
+```{list-table} Petzen Marriages in ???
+:header-rows: 1
+
+* - Groom's Calcuated Age
   - Groom 1{sup}`st` Marriage
-  - Bride Age
+  - Bride Calculated Age
   - Bride  1{sup}`st` Marriage
 * -
   -
