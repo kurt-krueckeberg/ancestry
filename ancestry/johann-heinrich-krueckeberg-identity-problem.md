@@ -73,7 +73,7 @@ Use these examples
 * - Groom Age
   - Groom 1{sup}`st` Marriage
   - Bride Age
-  - Bride  1`{sup`}st Marriage
+  - Bride  1{sup}`st` Marriage
 * -
   -
   -
