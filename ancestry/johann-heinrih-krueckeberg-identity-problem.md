@@ -1,4 +1,4 @@
-# The Johann Heinrich Krückeberg Identity problem: the 1744 baptism, 1761 marriage, and 1822 death
+# The Johann Heinrich Krückeberg Identity Problem: The 1744 Baptism, 1761 Marriage, and 1822 Death
 
 The FamilySearch tree currently treats the Johann Henrich Krückeberg
 baptized in Petzen on {external+genealogy:doc}`19 January 1744 baptism
@@ -24,6 +24,35 @@ or birth entry for Johann Henrich Krückeberg has been found. The 19 January
 1744 baptism is therefore a plausible candidate, but not a proved
 identification.
 
+A same-name, same-village match may make the 1744 baptismal child a
+**plausible candidate** for the 1761 groom, especially in a small village
+with apparently one Krückeberg family. But it does **not by itself prove
+identity**, particularly when the marriage entry gives no age, father,
+house number, occupation, or parentage.
+
+The age issue matters. A 17-year-old groom is possible, but young
+enough that it should raise the standard of caution, not be brushed aside.
+And the death of both parents before the marriage creates exactly the kind
+of gap that church records alone may not explain:
+
+- Where did Johann Henrich Krückeberg go to live when his father died in 1759? 
+- What happened to the Krückeberg holding? Did it transfer to him at age 15, just a month
+  shy of 16? 
+
+We know from her 1773 death record that the bride, Anne Christine Elisabet Seeger,
+would have been about 25 at the time of the 1761 marriage.
+
+- Would the bride's family really want their 25-year-old daughter to marry a
+  17 year old teenager? 
+- Would a 17-year-old groom be in a position to support a wife? Would he
+  have the job skills or would he instead still be in an apprenticeship or a
+  journeyman?
+
+The 17-year-old Johann Henrich Krückeberg may be a plausible candidate for
+the groom in the 1761 marriage, but a plausible candidate is not the same
+thing as a proven groom. The problem is that the current evidence links
+them chiefly by **name + village + absence of an obvious alternative**,
+which is suggestive but not conclusive.
 
 ## TODO
 - Add example of Arndt Valsing and Werkmieste whose age is given but who were
