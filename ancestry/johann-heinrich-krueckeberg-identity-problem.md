@@ -57,13 +57,14 @@ which is suggestive but not conclusive.
 
 ## Correlating Actual Marriage Ages from 17xx-17yy
 
-Marriages recorded in the Petzen paris did not recod the ages of the bride
-and groom until the year ???.
+Marriages record in the Petzen parish before 17?? do not give the ages of the bride
+and groom. However, for several marriages in the 161 timeframe, we can
+calculate the ages of the bride and groom.
 
-By using these examples, where the age of the bride and groom, can be
-caluclated, shows the approximate ages at marriage.
+By using these examples, where the age of the bride and groom can be
+caluclated, we can sample the approximate ages at marriage.
 
-Use these examples:
+Examples used:
 
 - [Henirch Arend Vahlsing](https://www.familysearch.org/en/tree/person/details/G8S2-LTZ) and his family members.
 - [Johann Heinrich Bleke and Anna Maria Elisabeth Möller](Anna Maria Elisabeth Möller) married in 1770.
