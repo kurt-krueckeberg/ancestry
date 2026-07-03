@@ -80,8 +80,8 @@ Examples used:
   - Bride Name
   - Bride baptism date
 * -
-  -
-  -
+  - Henrich Arend Vahlsing
+  - [6 February 1670](https://gen.krueckeberg.org/wiedensahl/WIED-B-1670a.html)
   -
   -
 ```
