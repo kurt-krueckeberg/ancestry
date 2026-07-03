@@ -39,8 +39,9 @@ of gap that church records alone may not explain:
 - What happened to the Krückeberg holding? Did it transfer to him at age 15, just a month
   shy of 16? 
 
-We know from her 1773 death record that the bride, Anne Christine Elisabet Seeger,
-would have been about 25 at the time of the 1761 marriage.
+We know from her {external+genealogy:doc}`1773 death record <petzen/PET-D-1773b>`
+that the bride, Anne Christine Elisabet Seeger, would have been about 25 at the
+time of the 1761 marriage.
 
 - Would the bride's family really want their 25-year-old daughter to marry a
   17 year old teenager? 
