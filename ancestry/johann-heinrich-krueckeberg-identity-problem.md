@@ -67,8 +67,8 @@ caluclated, we can sample the approximate ages at marriage.
 Examples used:
 
 - [Henirch Arend Vahlsing](https://www.familysearch.org/en/tree/person/details/G8S2-LTZ) and his family members.
-- [Johann Heinrich Bleke and Anna Maria Elisabeth Möller](Anna Maria Elisabeth Möller) married in 1770.
-- [Friedrich Wilhelm Weiland](Friedrich Wilhelm Weiland) 
+- {external+genealogy:doc}`1770 Marriage of Johann Heinrich Bleke and Anna Maria Elisabeth Möller <petzen/PET-M-1770a>`
+- [Friedrich Wilhelm Weiland](https://www.familysearch.org/en/tree/person/details/GLR4-ZG1)
 - [Hans Heinrich Wilharm](https://www.familysearch.org/en/tree/pedigree/portrait/G8XJ-QCC)
 
 ```{list-table} Petzen Marriages in ???
@@ -79,7 +79,7 @@ Examples used:
   - Baptism Date
   - Bride Name
   - Bride baptism date
-* -
+* - {exteranl+genealogy:doc}`23 Sept 1700 <PET-M-1700a
   - Henrich Arend Vahlsing
   - [6 February 1670](https://gen.krueckeberg.org/wiedensahl/WIED-B-1670a.html)
   -
