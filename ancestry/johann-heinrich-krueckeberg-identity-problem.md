@@ -35,9 +35,11 @@ enough that it should raise the standard of caution, not be brushed aside.
 And the death of both parents before the marriage creates exactly the kind
 of gap that church records alone may not explain:
 
-- Where did Johann Henrich Krückeberg go to live when his father died in 1759? 
+- Where did Johann Henrich Krückeberg go to live when his prospective father died in 1759, following
+  his prospective mother's prior death and bruial on {external+genealogy:doc}`May 8, 1757? <petzen/PET-D-1757>`?
 - What happened to the Krückeberg holding? Did it transfer to him at age 15, just a month
-  shy of 16? 
+  shy of 16; or to his possible brother Jobst Heinrich born in 1733, who
+  would be around 27 years old? 
 
 We know from her {external+genealogy:doc}`1773 death record <petzen/PET-D-1773b>`
 that the bride, Anne Christine Elisabet Seeger, would have been about 25 at the
@@ -82,7 +84,7 @@ Examples used:
 * - {exteranl+genealogy:doc}`23 Sept 1700 <PET-M-1700a
   - Henrich Arend Vahlsing
   - [6 February 1670](https://gen.krueckeberg.org/wiedensahl/WIED-B-1670a.html)
-  -
+  - Anna Elisabeth Becker
   -
 ```
 
