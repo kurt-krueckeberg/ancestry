@@ -59,7 +59,7 @@ which is suggestive but not conclusive.
 
 ## Correlating Actual Marriage Ages from 17xx-17yy
 
-Marriages record in the Petzen parish before 17?? do not give the ages of the bride
+Marriages record in the Petzen parish before 1805 do not give the ages of the bride
 and groom. However, for several marriages in the 161 timeframe, we can
 calculate the ages of the bride and groom.
 
