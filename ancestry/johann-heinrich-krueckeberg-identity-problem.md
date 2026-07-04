@@ -35,21 +35,27 @@ enough that it should raise the standard of caution, not be brushed aside.
 And the death of both parents before the marriage creates exactly the kind
 of gap that church records alone may not explain:
 
-- Where did Johann Henrich Krückeberg go to live when his prospective father died in 1759, following
-  his prospective mother's prior death and bruial on {external+genealogy:doc}`May 8, 1757? <petzen/PET-D-1757>`?
+- Where did Johann Henrich Krückeberg go to live when his presumptive father, Johann Heinrich,
+  died in 1759, following his presumptive mother's prior death and bruial on 
+  {external+genealogy:doc}`May 8, 1757? <petzen/PET-D-1757>`? Did he go to
+  live with his presumptive brother Jobst Heinrich, who was born in 1733?
 - What happened to the Krückeberg holding? Did it transfer to him at age 15, just a month
   shy of 16; or to his possible brother Jobst Heinrich born in 1733, who
-  would be around 27 years old? 
+  would be around 27 years old?
 
 We know from her {external+genealogy:doc}`1773 death record <petzen/PET-D-1773b>`
 that the bride, Anne Christine Elisabet Seeger, would have been about 25 at the
 time of the 1761 marriage.
 
-- Would the bride's family really want their 25-year-old daughter to marry a
-  17 year old teenager? 
+- Would such a marriage be condoned?
+- Would the bride's family really permit their 25-year-old daughter to marry a
+  17 year old teenager?  And would a 25 year woman want to marry a 17 year
+  old teenager?
+- If the groom was 17, he would be living with someone else. Why then would he 
+  want to marry at 17?
 - Would a 17-year-old groom be in a position to support a wife? Would he
-  have the job skills or would he instead still be in an apprenticeship or a
-  journeyman?
+  have the job skills or would he more likely still be in a required apprenticeship
+  or working as a journeyman?
 
 The 17-year-old Johann Henrich Krückeberg may be a plausible candidate for
 the groom in the 1761 marriage, but a plausible candidate is not the same
