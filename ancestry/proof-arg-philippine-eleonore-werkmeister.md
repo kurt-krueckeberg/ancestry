@@ -1,5 +1,7 @@
 # Case Study: The Identity of Philippine Eleonore, Wife of Carl Friedrich Gottlieb Krückeberg
 
+**TODO: Add hofname**
+
 ## Introduction and Summary Conclusion
 
 A surviving typewritten document headed **Familienschein des Auswanderers

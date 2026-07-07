@@ -84,14 +84,20 @@ Examples used:
 
 * - Marriage Date
   - Groom Name
-  - Baptism Date
+  - Baptism Date\
+    or approx. Birth Year
   - Bride Name
   - Bride baptism date
-* - {exteranl+genealogy:doc}`23 Sept 1700 <PET-M-1700a
+* - {exteranl+genealogy:doc}`23 Sept 1700 <PET-M-1700a>`
   - Henrich Arend Vahlsing
   - [6 February 1670](https://gen.krueckeberg.org/wiedensahl/WIED-B-1670a.html)
   - Anna Elisabeth Becker
-  -
+  - {external+genealogy:doc}`2 December 1767 <petzen/PET-B-1677a>`
+* - {exteranl+genealogy:doc}`28 Sep. 28 1727 <PET-M-1727a>`
+  - Johann H??? Krückeberg
+  -  
+  - Anna Elisabeth Vahlsing
+  - {exteranl+genealogy:doc}`19 June 1701 <PET-B-1701a>`
 ```
 
 ```{list-table} Petzen Marriages in ???
