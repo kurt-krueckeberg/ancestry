@@ -37,7 +37,7 @@ of gap that church records alone may not explain:
 
 - Where did Johann Henrich Krückeberg go to live when his presumptive father, Johann Heinrich,
   died in 1759, following his presumptive mother's prior death and bruial on 
-  {external+genealogy:doc}`May 8, 1757? <petzen/PET-D-1757>`? Did he go to
+  {external+genealogy:doc}`May 8, 1757? <petzen/PET-D-1757a>`? Did he go to
   live with his presumptive brother Jobst Heinrich, who was born in 1733?
 - What happened to the Krückeberg holding? Did it transfer to him at age 15, just a month
   shy of 16; or to his possible brother Jobst Heinrich born in 1733, who
@@ -88,16 +88,16 @@ Examples used:
     or approx. Birth Year
   - Bride Name
   - Bride baptism date
-* - {exteranl+genealogy:doc}`23 Sept 1700 <PET-M-1700a>`
+* - {external+genealogy:doc}`23 Sept 1700 <petzen/PET-M-1700a>`
   - Henrich Arend Vahlsing
   - [6 February 1670](https://gen.krueckeberg.org/wiedensahl/WIED-B-1670a.html)
   - Anna Elisabeth Becker
   - {external+genealogy:doc}`2 December 1767 <petzen/PET-B-1677a>`
-* - {exteranl+genealogy:doc}`28 Sep. 28 1727 <PET-M-1727a>`
+* - {external+genealogy:doc}`28 Sep. 28 1727 <petzen/PET-M-1727a>`
   - Johann H??? Krückeberg
   -  
   - Anna Elisabeth Vahlsing
-  - {exteranl+genealogy:doc}`19 June 1701 <PET-B-1701a>`
+  - {external+genealogy:doc}`19 June 1701 <petzen/PET-B-1701a>`
 ```
 
 ```{list-table} Petzen Marriages in ???
