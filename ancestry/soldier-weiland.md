@@ -8,7 +8,7 @@ on 29 January 1736, where she was called **Soldat Weilands Frau** ("Soldier We
 
 Hans Hermann Weiland would then be Johann Heinrich Krückeberg's brother-in-law because he married
 [Ilse Maria Vahlsing](https://www.familysearch.org/en/tree/person/details/G8S2-LZ1), who
-was the sister of Johann Hrinrich  Krückeberg's wife, [Anna Elisabeth Vahlsing](https://www.familysearch.org/en/tree/person/details/G8S2-472)
+was the sister of Johann Hrinrich  Krückeberg's wife, {external+genealogy:doc}`Anna Elisabeth Vahlsing <petzen/PET-B-1736a>`.
 
 Hans Hermann Weiland's {external+genealogy:doc}`marriage record <petzen/PET-M-1730a>` says he is from
 Berenbusch. But if he is the same **Weiland Soldat von Evesen**("Weiland soldier from Evesen") mentioned in
