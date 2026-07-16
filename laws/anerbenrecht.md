@@ -1,6 +1,15 @@
 # Anerbenrecht
 
-Anerbenricth (literally "sole heir law" or "law of principal inheritance") is the legal system of impartible agricultural inheritance. Common across northwestern Germany—including Schaumburg-Lippe, Westphalia, and Hanover—it dictated that a farm holding (*Hof* or *Stätte*) could not be physically divided among children. Instead, the entire farm, its lands, buildings, livestock, and associated rights passed as a single, unbroken unit to **one designated heir** (the *Anerbe*).
+Anerbenricth (literally "sole heir law" or "law of principal inheritance")
+is the legal system of impartible agricultural inheritance. **Impartible**
+means that a farm or agricultural holding must pass undivided to a single
+heir, rather than being divided among several heirs. 
+
+Common across northwestern Germany—including Schaumburg-Lippe, Westphalia,
+and Hanover—the Anernbenrecht dictated that a Stätte (holding) could not be
+physically divided among children. Instead, the entire holding, its lands,
+buildings, livestock, and associated rights passed as a single, unbroken
+unit to **one designated heir** (the *Anerbe*).
 
 ---
 
