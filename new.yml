@@ -13,15 +13,4 @@ parts:
       - file: surname/krueckeberg-distribution
 
   - caption: Cultural and Legal Background
-    chapters:
-      - file: laws/legal-background
-        sections:
-          - file: laws/anerbenrecht
-          - file: laws/meierrecht
-      - file: hofname/hofname-explained
-        sections:
-          - file: hofname/hofname-in-church-registers
-          - file: hofname/suranems-nonimmutable.md
-          - file: hofname/hofname-vs-surname.md
-
 
