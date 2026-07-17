@@ -12,6 +12,9 @@ parts:
     chapters:
       - file: surname/krueckeberg-distribution
 
+  - caption: History
+    chapters:
+      - file: history/schaumburg-Lippe.md   
   - caption: Cultural and Legal Background
     chapters:
       - file: laws/legal-background
