@@ -14,7 +14,7 @@ parts:
 
   - caption: History
     chapters:
-      - file: history/schaumburg-Lippe.md   
+      - file: history/schaumburg-lippe.md   
   - caption: Cultural and Legal Background
     chapters:
       - file: laws/legal-background
