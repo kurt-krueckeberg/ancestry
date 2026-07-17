@@ -1,3 +1,3 @@
-# Current Explanation of Krückeberg Ancestry
+# Krückeberg Ancestry
 
 This is currently under development.
