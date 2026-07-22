@@ -17,17 +17,17 @@ The holder of a Stätte was commonly called a **Kolon**. This term
 identified the person as the recognized holder of the Stätte; it did not
 necessarily mean that farming was his principal occupation. The Kolon of a
 small Stätte might earn most of his living as a shoemaker, tailor, weaver,
-carpenter, day laborer, or other craftsman. 
+carpenter, day laborer, or other craftsman.
 
 ## 1. Meierrecht: the Kolon’s right to hold the Stätte
 
-Under the Meierrecht, the Kolon (the recognized holder of the Stätte)
-possessed the right to occupy and use the Stätte and to transfer it to a
-successor with the approval of the Grundherr (lord of the estate). In
-Schaumburg-Lippe, the Grundherr might be the prince, a noble landholder, an
-ecclesiastical institution, or another landholder. When the prince was the
-Grundherr, the princely Rentkammer administered the Stätte and collected
-the dues owed by its Kolon. [^3]
+Under the **Meierrecht**, the Kolon possessed the right to occupy and use
+the Stätte and to transfer it to a successor with the approval of the
+**Grundherr** (lord of the estate). In Schaumburg-Lippe, the Grundherr
+might be the prince, a noble landholder, an ecclesiastical institution, or
+another landholder. When the prince was the Grundherr, the princely
+**Rentkammer** administered the Stätte and collected the dues owed by its
+Kolon.[^3]
 
 By the late eighteenth century, Meierrecht was generally much more secure
 than an ordinary temporary rental arrangement. The Kolon’s family could
@@ -38,15 +38,15 @@ transfers were made with the Grundherr’s approval.
 A transfer of the Stätte to a successor required the approval of the
 Grundherr. If the prince was the Grundherr, the princely Rentkammer handled
 the approval. The formal recognition of the successor as the new Kolon was
-called Bemeierung. The written document recording that recognition was the
-Meierbrief.[^4]
+called **Bemeierung**. The written document recording that recognition was
+the **Meierbrief**.[^4]
 
 A person serving only as an **Interimswirt** or **Interimskolon** was a
 temporary or acting manager of the Stätte. Such a person might administer
 it during a minority, widowhood, unsettled succession, or another
 transitional period without necessarily becoming its permanent, formally
 recognized holder. Schaumburg-Lippe archival descriptions distinguish an
-*Interimskolon* from a subsequently recognized Kolon of the same numbered
+Interimskolon from a subsequently recognized Kolon of the same numbered
 Stätte.[^5]
 
 The Meierrecht applied to the recognized holding as a legal unit. On a
@@ -57,17 +57,17 @@ limited livestock, and rights or obligations connected with the holding or
 house number.
 
 Thus, Meierrecht in Schaumburg-Lippe did not concern only farms. It
-governed the hereditary or transmissible possession of Stätten of widely
-differing sizes and economic character.
+governed the hereditary holding and transfer of Stätten of widely differing
+sizes and economic character.
 
 ## 2. Anerbenrecht: transfer to one principal successor
 
-The succession principle known as **Anerbenrecht** provided that the Stätte passed
-to one principal successor, the **Anerbe**, rather than being physically
-divided among all the children.
+The succession principle known as **Anerbenrecht** provided that the Stätte
+passed to one principal successor, the **Anerbe**, rather than being
+physically divided among all the children.
 
 The Anerbe might be a son or a daughter. A daughter who succeeded to the
-Stätte could be described as an Erbtochter.[^6]
+Stätte could be described as an **Erbtochter**.[^6]
 
 The choice of successor depended on local inheritance custom, family
 arrangements, and the approval of the Grundherr. If the prince was the
@@ -76,7 +76,7 @@ eldest-son or youngest-son succession necessarily applied to every Stätte
 in Schaumburg-Lippe.
 
 The other children were the **weichende Erben**, the heirs who did not
-receive the Stätte.  Their settlement, known as an **Abfindung**, might
+receive the Stätte. Their settlement, known as an **Abfindung**, might
 consist of money, movable property, a marriage portion, assistance in
 establishing another household, or continued shelter and support.[^7]
 
@@ -84,7 +84,7 @@ The purpose of Anerbenrecht was to ensure that the Stätte continued to
 exist as the same recognized holding from one generation to the next. Its
 house, land, buildings, rights, obligations, and house number remained
 together under one recognized holder rather than being divided among
-several heirs.[^8]
+several heirs.
 
 On a substantial agricultural Stätte, Anerbenrecht prevented the land and
 buildings from being divided into progressively smaller holdings. On a
@@ -93,10 +93,10 @@ land, common rights, and the legal status attached to the holding.
 
 The word “undivided” therefore requires qualification. It does not
 necessarily mean that every movable object or every item owned by the
-family passed to the Anerbe.It means that the Stätte itself, together with
+family passed to the Anerbe. It means that the Stätte itself, together with
 the rights and obligations attached to it, continued under one recognized
 holder. Movable property and settlements for the other heirs could still be
-distributed separately. 
+distributed separately.
 
 In the period covered here, **Anerbenrecht** was not necessarily a single
 uniform statute governing every Stätte in Schaumburg-Lippe. It was the
@@ -104,6 +104,7 @@ general principle that the Stätte passed intact to one successor, while the
 precise succession procedure depended on local custom, the legal status of
 the holding, family arrangements, and the Grundherr’s approval.
 
+**TODO:** Resume review staring here:
 ## 3. Succession and the Hof- or Stättenname
 
 In Schaumburg-Lippe and neighboring parts of northwestern Germany, a
