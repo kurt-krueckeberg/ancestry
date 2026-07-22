@@ -62,56 +62,47 @@ differing sizes and economic character.
 
 ## 2. Anerbenrecht: transfer to one principal successor
 
-RESUME REVIEW HERE:
-The succession principle generally described as **Anerbenrecht** provided
-that the essential Stätte passed to one principal successor, the
-**Anerbe**, rather than being physically divided among all the children.
+The succession principle known as **Anerbenrecht** provided that the Stätte passed
+to one principal successor, the **Anerbe**, rather than being physically
+divided among all the children.
 
-The Anerbe might be a son or, depending on the family circumstances and
-applicable local practice, a daughter. A daughter who succeeded to the
-holding could be described as an **Erbtochter**.[^6]
+The Anerbe might be a son or a daughter. A daughter who succeeded to the
+Stätte could be described as an Erbtochter.[^6]
 
-The exact choice of successor could be affected by customary succession
-rules, the wishes of the family, the suitability of the proposed successor,
-marriage arrangements, and the approval of the competent lord or
-administrative authority. It is therefore preferable not to assume that one
-rigid rule of eldest-son or youngest-son succession applied uniformly to
-every Stätte in Schaumburg-Lippe.
+The choice of successor depended on local inheritance custom, family
+arrangements, and the approval of the Grundherr. If the prince was the
+Grundherr, the princely Rentkammer handled the approval. No single rule of
+eldest-son or youngest-son succession necessarily applied to every Stätte
+in Schaumburg-Lippe.
 
 The other children were the **weichende Erben**, the heirs who did not
-receive the Stätte itself. They might receive money, furniture, clothing,
-livestock, assistance in establishing another household, or other property
-that could be separated from the holding.
+receive the Stätte.  Their settlement, known as an **Abfindung**, might
+consist of money, movable property, a marriage portion, assistance in
+establishing another household, or continued shelter and support.[^7]
 
-The settlement provided to a non-succeeding heir was commonly called an
-**Abfindung**. Depending on the family’s resources and the character of the
-Stätte, the Abfindung might consist of money, movable property, a marriage
-portion, assistance in establishing another household, or continued shelter
-and support.[^7]
+The purpose of Anerbenrecht was to ensure that the Stätte continued to
+exist as the same recognized holding from one generation to the next. Its
+house, land, buildings, rights, obligations, and house number remained
+together under one recognized holder rather than being divided among
+several heirs.[^8]
 
-The purpose of Anerbenrecht was to preserve the legal and economic
-continuity of the recognized holding. The broader northwestern German
-system favored succession by one principal heir while providing more
-limited settlements or marriage portions to the non-succeeding
-siblings.[^8]
-
-On a substantial agricultural Stätte, this prevented the land and buildings
-from being divided into progressively smaller pieces. On a small
-shoemaker’s or tailor’s Stätte, it might preserve only the dwelling,
-garden, limited land, common rights, and the legal position attached to the
-holding.
+On a substantial agricultural Stätte, Anerbenrecht prevented the land and
+buildings from being divided into progressively smaller holdings. On a
+shoemaker’s or tailor’s Stätte, it preserved the dwelling, garden, limited
+land, common rights, and the legal status attached to the holding.
 
 The word “undivided” therefore requires qualification. It does not
 necessarily mean that every movable object or every item owned by the
-family passed to the Anerbe. It means principally that the core Stätte and
-the rights and obligations constituting it continued under one recognized
-holder.
+family passed to the Anerbe.It means that the Stätte itself, together with
+the rights and obligations attached to it, continued under one recognized
+holder. Movable property and settlements for the other heirs could still be
+distributed separately. 
 
-For the period in question, Anerbenrecht is best understood as the general
-principle of impartible succession rather than as one uniform statute
-governing every Stätte in Schaumburg-Lippe. The exact procedure depended
-upon the legal status of the particular holding, local practice, family
-circumstances, and the authority responsible for recognizing the successor.
+In the period covered here, **Anerbenrecht** was not necessarily a single
+uniform statute governing every Stätte in Schaumburg-Lippe. It was the
+general principle that the Stätte passed intact to one successor, while the
+precise succession procedure depended on local custom, the legal status of
+the holding, family arrangements, and the Grundherr’s approval.
 
 ## 3. Succession and the Hof- or Stättenname
 
