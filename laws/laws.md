@@ -22,7 +22,7 @@ carpenter, day laborer, or other craftsman.
 ## 1. Meierrecht: the Kolon’s right to hold the Stätte
 
 Under the **Meierrecht**, the Kolon possessed the recognized right to
-occupy, use, and transmit the Stätte, while a superior lord or institution
+occupy, use, and transfer the Stätte, while a superior lord or institution
 retained certain rights over it. In Schaumburg-Lippe, that superior
 authority was often the territorial ruler or princely administration,
 although noble estates, ecclesiastical bodies, or other landholders could
