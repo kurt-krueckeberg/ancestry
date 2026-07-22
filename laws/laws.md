@@ -6,20 +6,19 @@ In late eighteenth- and early to mid-nineteenth-century Schaumburg-Lippe,
 these institutions regulated how a Stätte was held, transferred to a
 successor, and used to support the previous holder after the transfer.
 
-A **Stätte** was a recognized residential and economic holding associated
-with a particular household and commonly identified by a house or holding
-number. It comprised the dwelling and whatever land, buildings, rights,
-obligations, and other property were legally attached to the holding. A
-Stätte could be a substantial agricultural establishment, but it could also
-be a small holding consisting mainly of a house, garden plot, a few
-animals, limited land or common rights, and perhaps one or more small
-outbuildings.[^1]
+A **Stätte** was a legally recognized property or homesite associated with
+a household. A newly created Stätte might initially consist only of a
+designated site or parcel of land, before a house or other buildings were
+constructed. An established Stätte could range from a substantial farm to a
+small residential property occupied by a craftsman or laborer. The person
+who held the Stätte had certain rights, such as access to common land, and
+certain duties, such as paying dues or providing services.[^1]
 
 The holder of a Stätte was commonly called a **Kolon**. This term
 identified the person as the recognized holder of the Stätte; it did not
-necessarily mean that farming was his principal occupation. The Kolon of a
-small Stätte might earn most of his living as a shoemaker, tailor, weaver,
-carpenter, day laborer, or other craftsman.
+imply he was always a farmer. The Kolon of a small Stätte might earn most
+of his living as a shoemaker, tailor, weaver, carpenter, day laborer, or
+other craftsman.
 
 ## 1. Meierrecht: the Kolon’s right to hold the Stätte
 
