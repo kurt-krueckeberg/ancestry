@@ -21,6 +21,7 @@ parts:
         sections:
           - file: laws/anerbenrecht
           - file: laws/meierrecht
+          - file: laws/laws
       - file: hofname/hofname-explained
         sections:
           - file: hofname/hofname-in-church-registers
