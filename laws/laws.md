@@ -33,10 +33,9 @@ By the late eighteenth century, Meierrecht was generally much more secure
 than an ordinary temporary rental arrangement. The Kolon’s family could
 normally expect the Stätte to pass from one generation to the next, as long
 as the required dues were paid, the holding was properly maintained, and
-transfers were made with the Grundherr’s approval.  In eastern Westphalia
-and neighboring Lippe, Meierrecht developed from a form of leasehold toward
-an effectively hereditary right of possession, although the holder remained
-subject to dues and other obligations.[^4]
+transfers were made with the Grundherr’s approval.
+
+RESUME review:
 
 Transfer to a successor could nevertheless require the consent of the
 competent authority and formal recognition of the new holder through a
@@ -44,7 +43,7 @@ competent authority and formal recognition of the new holder through a
 Meierbrief identified the person recognized as the holder under the
 applicable tenure arrangement. Such recognition could distinguish the
 permanent holder from someone who merely managed or occupied the Stätte in
-practice.[^5]
+practice.[^4]
 
 A person serving only as an **Interimswirt** or **Interimskolon** was a
 temporary or acting manager of the Stätte. Such a person might administer
@@ -52,7 +51,7 @@ it during a minority, widowhood, unsettled succession, or another
 transitional period without necessarily becoming its permanent, formally
 recognized holder. Schaumburg-Lippe archival descriptions distinguish an
 *Interimskolon* from a subsequently recognized Kolon of the same numbered
-Stätte.[^6]
+Stätte.[^5]
 
 The Meierrecht applied to the recognized holding as a legal unit. On a
 large Stätte, this unit might include a house, barns, extensive arable
@@ -73,7 +72,7 @@ that the essential Stätte passed to one principal successor, the
 
 The Anerbe might be a son or, depending on the family circumstances and
 applicable local practice, a daughter. A daughter who succeeded to the
-holding could be described as an **Erbtochter**.[^7]
+holding could be described as an **Erbtochter**.[^6]
 
 The exact choice of successor could be affected by customary succession
 rules, the wishes of the family, the suitability of the proposed successor,
@@ -91,13 +90,13 @@ The settlement provided to a non-succeeding heir was commonly called an
 **Abfindung**. Depending on the family’s resources and the character of the
 Stätte, the Abfindung might consist of money, movable property, a marriage
 portion, assistance in establishing another household, or continued shelter
-and support.[^8]
+and support.[^7]
 
 The purpose of Anerbenrecht was to preserve the legal and economic
 continuity of the recognized holding. The broader northwestern German
 system favored succession by one principal heir while providing more
 limited settlements or marriage portions to the non-succeeding
-siblings.[^9]
+siblings.[^8]
 
 On a substantial agricultural Stätte, this prevented the land and buildings
 from being divided into progressively smaller pieces. On a small
@@ -128,7 +127,7 @@ recognized holder, the husband might subsequently be identified in parish,
 tax, administrative, or local records by the established **Hofname** or
 **Stättenname** rather than exclusively by his birth surname. A Meierbrief
 or another formal recognition of the new holder could reinforce this
-association between the person and the holding.[^10]
+association between the person and the holding.[^9]
 
 This should not necessarily be understood as a modern legal surname change
 in every case. Historical records might use:
@@ -185,7 +184,7 @@ agreement, succession arrangement, Meier record, or other administrative
 instrument. In the neighboring regions of Ostwestfalen and Osnabrück, such
 contracts could specify housing, furniture, animals, garden or arable land,
 provisions, and work that the succeeding holder was required to
-perform.[^11]
+perform.[^10]
 
 The term could also be used somewhat flexibly. In a particular record, *die
 Leibzucht* might refer to:
@@ -197,7 +196,7 @@ Leibzucht* might refer to:
 
 Its precise meaning must therefore be determined from the context.
 Contemporary Schaumburg-Lippe legislation and official notices attest to
-the local use of the terms *Leibzucht* and *Leibzüchter*.[^12]
+the local use of the terms *Leibzucht* and *Leibzüchter*.[^11]
 
 ## 5. Leibzuchtshaus: the dwelling attached to the Leibzucht
 
@@ -223,7 +222,7 @@ that arrangement.
 
 Historical usage was not always perfectly consistent. The word *Leibzucht*
 originally referred to lifelong maintenance but was also applied to the
-building or secondary establishment in which the recipients lived.[^13]
+building or secondary establishment in which the recipients lived.[^12]
 
 The plural **Leibzuchtshäuser** means several such dwellings.
 
@@ -301,23 +300,21 @@ Stätte whose Kolon lived principally from a craft or wage labor.
 
 [^3]: *Schaumburg-Lippische Landesverordnungen*, vol. 2 (Bückeburg, 1805); and *Anzeigen des Fürstenthums Schaumburg-Lippe: 1853*. These contemporary publications document the territorial government, princely chamber, subordinate offices, Stätten, Kolonen, and Leibzucht terminology. [https://books.google.com/books?id=QyFGAAAAcAAJ](https://books.google.com/books?id=QyFGAAAAcAAJ)
 
-[^4]: Landschaftsverband Westfalen-Lippe, Internet-Portal „Westfälische Geschichte,“ historical overview of the agrarian constitution. It describes Meierrecht in eastern Westphalia, particularly Lippe and Paderborn, as a form of leasehold tending toward hereditary possession. [https://www.lwl.org/westfaelische-geschichte/portal/Internet/ku.php?ID=31&tab=web](https://www.lwl.org/westfaelische-geschichte/portal/Internet/ku.php?ID=31&tab=web)
+[^4]: “Meierrecht and Meierbrief,” accompanying research notes, lines 11–19. The notes describe the Meierbrief as the document formally identifying the recognized holder of a Stätte. 
 
-[^5]: “Meierrecht and Meierbrief,” accompanying research notes, lines 11–19. The notes describe the Meierbrief as the document formally identifying the recognized holder of a Stätte. 
+[^5]: Niedersächsisches Landesarchiv, Abteilung Bückeburg, NLA BU L 101b T Nr. 6b. The catalog description separately records obligations of an *Interimskolon Hansing Nr. 12* and those of *Kolon Schwabe Nr. 12*, illustrating the distinction between an interim and a recognized holder. [https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4871795](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4871795)
 
-[^6]: Niedersächsisches Landesarchiv, Abteilung Bückeburg, NLA BU L 101b T Nr. 6b. The catalog description separately records obligations of an *Interimskolon Hansing Nr. 12* and those of *Kolon Schwabe Nr. 12*, illustrating the distinction between an interim and a recognized holder. [https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4871795](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v4871795)
+[^6]: “Anerbenrecht,” accompanying research notes, lines 16–20. The notes identify the succeeding daughter as an *Erbtochter*. 
 
-[^7]: “Anerbenrecht,” accompanying research notes, lines 16–20. The notes identify the succeeding daughter as an *Erbtochter*. 
+[^7]: Ibid. The notes identify *Abfindung* as the settlement made to non-succeeding siblings and describe possible forms of compensation or support. 
 
-[^8]: Ibid. The notes identify *Abfindung* as the settlement made to non-succeeding siblings and describe possible forms of compensation or support. 
+[^8]: Landschaftsverband Westfalen-Lippe, Internet-Portal „Westfälische Geschichte,“ “Alleinstehende Geschwister des Bauern.” It explains that one child normally succeeded while non-succeeding siblings might remain in the household or receive a regulated marriage portion. [https://www.lwl.org/westfaelische-geschichte/portal/Internet/drucken.php?ID=105&tab=tex](https://www.lwl.org/westfaelische-geschichte/portal/Internet/drucken.php?ID=105&tab=tex)
 
-[^9]: Landschaftsverband Westfalen-Lippe, Internet-Portal „Westfälische Geschichte,“ “Alleinstehende Geschwister des Bauern.” It explains that one child normally succeeded while non-succeeding siblings might remain in the household or receive a regulated marriage portion. [https://www.lwl.org/westfaelische-geschichte/portal/Internet/drucken.php?ID=105&tab=tex](https://www.lwl.org/westfaelische-geschichte/portal/Internet/drucken.php?ID=105&tab=tex)
+[^9]: “Anerbenrecht,” accompanying research notes, lines 20–21; and “Meierrecht and Meierbrief,” lines 17–19. These notes describe the connection between succession through an Erbtochter, formal recognition of her husband as holder, and the continued use of the Hofname.  
 
-[^10]: “Anerbenrecht,” accompanying research notes, lines 20–21; and “Meierrecht and Meierbrief,” lines 17–19. These notes describe the connection between succession through an Erbtochter, formal recognition of her husband as holder, and the continued use of the Hofname.  
+[^10]: Landschaftsverband Westfalen-Lippe, “Alleinstehende Geschwister des Bauern: Die Altenteiler,” and Marcel Brüntrup and Christine Fertig, “Auf die Leibzucht ziehen: Altersversorgung in Ostwestfalen im 19. Jahrhundert,” Kommission Alltagskulturforschung für Westfalen, 22 October 2024. These sources explain that the Leibzucht could be fixed contractually and could include a dwelling, land, livestock, provisions, furnishings, and specified labor by the successor. [https://www.lwl.org/westfaelische-geschichte/portal/Internet/drucken.php?ID=105&tab=tex](https://www.lwl.org/westfaelische-geschichte/portal/Internet/drucken.php?ID=105&tab=tex) and [https://www.alltagskultur.lwl.org/de/blog/auf-die-leibzucht-ziehen-altersversorgung-in-ostwestfalen-im-19-jahrhundert/](https://www.alltagskultur.lwl.org/de/blog/auf-die-leibzucht-ziehen-altersversorgung-in-ostwestfalen-im-19-jahrhundert/)
 
-[^11]: Landschaftsverband Westfalen-Lippe, “Alleinstehende Geschwister des Bauern: Die Altenteiler,” and Marcel Brüntrup and Christine Fertig, “Auf die Leibzucht ziehen: Altersversorgung in Ostwestfalen im 19. Jahrhundert,” Kommission Alltagskulturforschung für Westfalen, 22 October 2024. These sources explain that the Leibzucht could be fixed contractually and could include a dwelling, land, livestock, provisions, furnishings, and specified labor by the successor. [https://www.lwl.org/westfaelische-geschichte/portal/Internet/drucken.php?ID=105&tab=tex](https://www.lwl.org/westfaelische-geschichte/portal/Internet/drucken.php?ID=105&tab=tex) and [https://www.alltagskultur.lwl.org/de/blog/auf-die-leibzucht-ziehen-altersversorgung-in-ostwestfalen-im-19-jahrhundert/](https://www.alltagskultur.lwl.org/de/blog/auf-die-leibzucht-ziehen-altersversorgung-in-ostwestfalen-im-19-jahrhundert/)
+[^11]: *Schaumburg-Lippische Landesverordnungen*, vol. 2 (1805), which contains *Leibzucht* among its terminology; and *Anzeigen des Fürstenthums Schaumburg-Lippe: 1853*, which uses *Leibzüchter*. [https://books.google.com/books?id=QyFGAAAAcAAJ](https://books.google.com/books?id=QyFGAAAAcAAJ) and [https://books.google.com/books?id=tOE-AAAAcAAJ](https://books.google.com/books?id=tOE-AAAAcAAJ)
 
-[^12]: *Schaumburg-Lippische Landesverordnungen*, vol. 2 (1805), which contains *Leibzucht* among its terminology; and *Anzeigen des Fürstenthums Schaumburg-Lippe: 1853*, which uses *Leibzüchter*. [https://books.google.com/books?id=QyFGAAAAcAAJ](https://books.google.com/books?id=QyFGAAAAcAAJ) and [https://books.google.com/books?id=tOE-AAAAcAAJ](https://books.google.com/books?id=tOE-AAAAcAAJ)
-
-[^13]: Landschaftsverband Westfalen-Lippe, “Alleinstehende Geschwister des Bauern: Die Altenteiler.” The source explains that *Leibzucht* originally meant lifelong maintenance and was subsequently also applied to the building in which the older generation lived. [https://www.lwl.org/westfaelische-geschichte/portal/Internet/drucken.php?ID=105&tab=tex](https://www.lwl.org/westfaelische-geschichte/portal/Internet/drucken.php?ID=105&tab=tex)
+[^12]: Landschaftsverband Westfalen-Lippe, “Alleinstehende Geschwister des Bauern: Die Altenteiler.” The source explains that *Leibzucht* originally meant lifelong maintenance and was subsequently also applied to the building in which the older generation lived. [https://www.lwl.org/westfaelische-geschichte/portal/Internet/drucken.php?ID=105&tab=tex](https://www.lwl.org/westfaelische-geschichte/portal/Internet/drucken.php?ID=105&tab=tex)
 
