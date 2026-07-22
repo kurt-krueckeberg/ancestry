@@ -17,9 +17,7 @@ The holder of a Stätte was commonly called a **Kolon**. This term
 identified the person as the recognized holder of the Stätte; it did not
 necessarily mean that farming was his principal occupation. The Kolon of a
 small Stätte might earn most of his living as a shoemaker, tailor, weaver,
-carpenter, day laborer, or other craftsman. Contemporary Schaumburg-Lippe
-notices use the terms *Colon*, *Stätte*, and *Leibzüchter* alongside
-references to the princely Rentkammer and local administrative offices.[^2]
+carpenter, day laborer, or other craftsman. 
 
 ## 1. Meierrecht: the Kolon’s right to hold the Stätte
 
