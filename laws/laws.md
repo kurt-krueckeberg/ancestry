@@ -1,4 +1,4 @@
-## Meierrecht, Anerbenrecht, Leibzucht, and Leibzuchtshaus in Schaumburg-Lippe
+# Meierrecht, Anerbenrecht, Leibzucht, and Leibzuchtshaus in Schaumburg-Lippe
 
 In Schaumburg-Lippe, these institutions regulated how a **Stätte** was held, transferred to the next generation, and used to support the previous holder after the transfer.
 
