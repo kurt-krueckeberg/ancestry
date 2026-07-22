@@ -21,21 +21,22 @@ carpenter, day laborer, or other craftsman.
 
 ## 1. Meierrecht: the Kolon’s right to hold the Stätte
 
-Under the **Meierrecht**, the Kolon possessed the recognized right to
-occupy, use, and transfer the Stätte, while a superior lord or institution
-retained certain rights over it. In Schaumburg-Lippe, that superior
-authority was often the territorial ruler or princely administration,
-although noble estates, ecclesiastical bodies, or other landholders could
-also possess particular seigneurial rights.[^3]
+Under the Meierrecht, the Kolon (the recognized holder of the Stätte)
+possessed the right to occupy and use the Stätte and to transfer it to a
+successor with the approval of the Grundherr (lord of the estate). In
+Schaumburg-Lippe, the Grundherr might be the prince, a noble landholder, an
+ecclesiastical institution, or another landholder. When the prince was the
+Grundherr, the princely Rentkammer administered the Stätte and collected
+the dues owed by its Kolon. [^3]
 
 By the late eighteenth century, Meierrecht was generally much more secure
-than an ordinary temporary rental arrangement. The Kolon and his family
-normally expected the Stätte to remain in the family, provided that its
-obligations were fulfilled and the holding was not improperly neglected or
-alienated. In eastern Westphalia and neighboring Lippe, Meierrecht
-developed from a form of leasehold toward an effectively hereditary right
-of possession, although the holder remained subject to dues and other
-obligations.[^4]
+than an ordinary temporary rental arrangement. The Kolon’s family could
+normally expect the Stätte to pass from one generation to the next, as long
+as the required dues were paid, the holding was properly maintained, and
+transfers were made with the Grundherr’s approval.  In eastern Westphalia
+and neighboring Lippe, Meierrecht developed from a form of leasehold toward
+an effectively hereditary right of possession, although the holder remained
+subject to dues and other obligations.[^4]
 
 Transfer to a successor could nevertheless require the consent of the
 competent authority and formal recognition of the new holder through a
