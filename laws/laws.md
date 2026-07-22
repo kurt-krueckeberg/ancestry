@@ -35,15 +35,11 @@ normally expect the Stätte to pass from one generation to the next, as long
 as the required dues were paid, the holding was properly maintained, and
 transfers were made with the Grundherr’s approval.
 
-RESUME review:
-
-Transfer to a successor could nevertheless require the consent of the
-competent authority and formal recognition of the new holder through a
-**Bemeierung**, **Meierbrief**, or related administrative procedure. A
-Meierbrief identified the person recognized as the holder under the
-applicable tenure arrangement. Such recognition could distinguish the
-permanent holder from someone who merely managed or occupied the Stätte in
-practice.[^4]
+A transfer of the Stätte to a successor required the approval of the
+Grundherr. If the prince was the Grundherr, the princely Rentkammer handled
+the approval. The formal recognition of the successor as the new Kolon was
+called Bemeierung. The written document recording that recognition was the
+Meierbrief.[^4]
 
 A person serving only as an **Interimswirt** or **Interimskolon** was a
 temporary or acting manager of the Stätte. Such a person might administer
@@ -66,6 +62,7 @@ differing sizes and economic character.
 
 ## 2. Anerbenrecht: transfer to one principal successor
 
+RESUME REVIEW HERE:
 The succession principle generally described as **Anerbenrecht** provided
 that the essential Stätte passed to one principal successor, the
 **Anerbe**, rather than being physically divided among all the children.
