@@ -1,5 +1,7 @@
 # Meierrecht, Anerbenrecht, Leibzucht, and Leibzuchtshaus in Schaumburg-Lippe
 
+**TODO:** Replace Stätte with "property"/"real estate".
+
 In late eighteenth- and early to mid-nineteenth-century Schaumburg-Lippe,
 these institutions regulated how a Stätte was held, transferred to a
 successor, and used to support the previous holder after the transfer.
