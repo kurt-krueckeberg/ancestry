@@ -17,11 +17,11 @@ parts:
       - file: history/schaumburg-lippe.md   
   - caption: Cultural and Legal Background
     chapters:
-      - file: laws/laws
+      - file: laws/landownership-resources-overview
+        sections: 
+          - file: laws/laws
       - file: hofname/hofname-explained
         sections:
           - file: hofname/hofname-in-church-registers
           - file: hofname/suranems-nonimmutable.md
           - file: hofname/hofname-vs-surname.md
-
-
