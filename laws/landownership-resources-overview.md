@@ -4,20 +4,20 @@
 
 ### 1. Digitized Historical Guides & Legal Overviews
 
-* **FamilySearch Wiki: [Germany Land and Property**](https://www.familysearch.org/en/wiki/Germany_Land_and_Property)
+* **FamilySearch Wiki:** [Germany Land and Property](https://www.familysearch.org/en/wiki/Germany_Land_and_Property)
 * *Why use it:* Outlines the tenant-landlord structures, the role of
   *Anerbenrecht*, and how peasant land-tenure maps to regional naming
 customs.
 
 
-* **GenWiki (CompGen): [Westfälisches Erbfolgerecht**](https://wiki.genealogy.net/Westf%C3%A4lisches_Erbfolgerecht)
+* **GenWiki (CompGen):** [Westfälisches Erbfolgerecht](https://wiki.genealogy.net/Westf%C3%A4lisches_Erbfolgerecht)
 *(German language)*
 * *Why use it:* Since Schaumburg-Lippe shares its borders and agricultural
   customs directly with Westphalia, this extensive article explains the
 legal mechanics of the *Anerbe*, the protection of the farm's assets, and
 the compensation of siblings.
 
-* **GenWiki (CompGen): [Meierrecht**](https://www.google.com/search?q=https://wiki.genealogy.net/Meierrecht)
+* **GenWiki (CompGen):** [Meierrecht](https://www.google.com/search?q=https://wiki.genealogy.net/Meierrecht)
 *(German language)*
 * *Why use it:* Details the tenancy laws governing *Meier* holdings,
   explaining the legal contractual handovers (*Meierbriefe*) that went
