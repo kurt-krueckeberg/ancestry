@@ -1,5 +1,27 @@
 # Landownership in Schaumburg-Lippe 
 
+
+**Not completely accurate for Schumburg-Lippe:**
+
+Our Schaumburg-Lippe ancestors were able to buy and sell the right to cultivate land
+and build a house on the land. They did not own the land, they only had a right of use.
+
+The landowner (manor lord) remained the owner and was in charge of all the major developments and
+decisions pertaining to the ground. The right of use was inheritable or
+could be sold, usually to a relative (the oldest or youngest son or a son
+in law). The proceedings were recorded in Erbkaufverträge (sales). When a
+father/mother was ready to retire, he/she would either give the child the
+farm or sell it to him (daughters usually were paid off). In such sales
+were also build-in stipulations of how the conditions of the retirement of
+the outgoing farmer should be handled.  Other records pertaining to the
+land are “Lehnscheine” (deeds), “Verschreibungen” (bonds), “Verzicht”
+(waiver), “Hypotheken” (mortgages). A “Pachtcontract” was issued when
+ancestors leased a piece of property (a house). A “Geradekauf” is a record
+of female possessions either brought into or acquired during marriage and
+then being sold, given away or bequeathed to her family. Erbkaufverträge
+and Geradekäufe would yield information pertinent to family research, since
+names, dates and places are included in such records. 
+
 ## Overview Resources on Landownership
 
 ### 1. Digitized Historical Guides & Legal Overviews
