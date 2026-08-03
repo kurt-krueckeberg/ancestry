@@ -11,17 +11,66 @@ parts:
   - caption: Federal Land Records
     chapters:
       - file: federal-land-records/index
-        sections: 
-         - file: federal-land-records/federal-land-acquisition
-         - file: federal-land-records/land-acts
-         - file: federal-land-records/residency-and-naturalization
-         - file: federal-land-records/indiana-land-records
-         - file: federal-land-records/swamplands-act
-           sections:
-           - file: federal-land-records/indiana-boondoggle
-         - file: federal-land-records/viewing-plss
-         - file: federal-land-records/records-land-and-other
-         - file: federal-land-records/plats
+        sections:
+          - file: federal-land-records/federal-land-acquisition
+          - file: federal-land-records/land-acts
+          - file: federal-land-records/residency-and-naturalization
+          - file: federal-land-records/indiana-land-records
+          - file: federal-land-records/swamplands-act
+            sections:
+              - file: federal-land-records/indiana-boondoggle
+          - file: federal-land-records/viewing-plss
+          - file: federal-land-records/records-land-and-other
+          - file: federal-land-records/plats
+
+  - caption: Bleeke
+    chapters:
+      - file: bleeke/bleeke-land-records
+        title: Bleeke Land Records
+
+  - caption: Johann Heinrich Philipp Bleeke
+    chapters:
+      - file: bleeke/jhp-bleeke/jhp-bleeke-land-patents
+      - file: bleeke/1853-school-enumeration
+
+  - caption: Carl Friedrich Bleeke
+    chapters:
+      - file: bleeke/cf-bleeke-bio
+        title: Biography
+      - file: bleeke/carl-friedrich-bleeke-family-us-arrival
+      - file: bleeke/1853-school-enumeration
+
+  - caption: Christian Friedrich Bleeke
+    chapters:
+      - file: bleeke/1853-school-enumeration
+
+  - caption: Maria Louise Eleonore Bleeke
+    chapters:
+      - file: bleeke/maria-louise-eleonore/confirmation
+
+  - caption: Krückeberg — Carl Friedrich
+    chapters:
+      - file: petzen/PET-B-1807a
+        title: 1807 Baptism
+      - file: krückeberg/carl-friedrich-familie-immigration
+      - file: krückeberg/1853-school-enumeration
+      - file: krückeberg/carl-friedrich/federal-land-records
+      - file: krückeberg/carl-friedrich/state-land-records
+      - file: krückeberg/carl-friedrich/naturalization
+      - file: krückeberg/census
+
+  - caption: Krückeberg — Karl Heinrich Wilhelm
+    chapters:
+      - file: krückeberg/carl-friedrich-familie-immigration
+      - file: krückeberg/carl-heinrich-wilhelm/chw_krueckeberg_naturalization_oath_nov_4_1856
+      - file: krückeberg/carl-heinrich-wilhelm/chw_krueckeberg_naturalization_1890
+
+  - caption: Krückeberg — Johann Heinrich
+    chapters:
+      - file: petzen/PET-B-1806a
+        title: 1806 Baptism
+      - file: krückeberg/johann-heinrich/johann-heinrich-krueckeberg-naturalization
+      - file: krückeberg/1853-school-enumeration
 
   - caption: Surname
     chapters:
@@ -29,15 +78,16 @@ parts:
 
   - caption: Background History
     chapters:
-      - file: history/schaumburg-lippe.md   
-      - file: history/life-in-schaumburg-lippe.md   
+      - file: history/schaumburg-lippe
+      - file: history/life-in-schaumburg-lippe
+
   - caption: Cultural and Legal Background
     chapters:
       - file: laws/landownership-resources-overview
-        sections: 
+        sections:
           - file: laws/laws
       - file: hofname/hofname-explained
         sections:
           - file: hofname/hofname-in-church-registers
-          - file: hofname/suranems-nonimmutable.md
-          - file: hofname/hofname-vs-surname.md
+          - file: hofname/suranems-nonimmutable
+          - file: hofname/hofname-vs-surname
