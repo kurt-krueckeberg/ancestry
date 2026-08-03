@@ -10,18 +10,18 @@ parts:
 
   - caption: Federal Land Records
     chapters:
-      -file: federal-land-records/index
+      - file: federal-land-records/index
         sections: 
-         -file: federal-land-records/federal-land-acquisition
-         -file: federal-land-records/land-acts
-         -file: federal-land-records/residency-and-naturalization
-         -file: federal-land-records/indiana-land-records
-         -file: federal-land-records/swamplands-act
+         - file: federal-land-records/federal-land-acquisition
+         - file: federal-land-records/land-acts
+         - file: federal-land-records/residency-and-naturalization
+         - file: federal-land-records/indiana-land-records
+         - file: federal-land-records/swamplands-act
            sections:
-           -file: federal-land-records/indiana-boondoggle
-         -file: federal-land-records/viewing-plss
-         -file: federal-land-records/records-land-and-other
-         -file: federal-land-records/plats
+           - file: federal-land-records/indiana-boondoggle
+         - file: federal-land-records/viewing-plss
+         - file: federal-land-records/records-land-and-other
+         - file: federal-land-records/plats
 
   - caption: Surname
     chapters:
