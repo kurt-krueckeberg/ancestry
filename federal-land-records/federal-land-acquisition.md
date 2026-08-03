@@ -11,7 +11,7 @@ Step one was the **application**[^2]:
 > When a desired tract or parcel of land was located in the public domain an individual first needed to make an **application**
 > or entry for that particular segment of land…​Sometimes payment itself was considered adequate for successful application.
 >
-> --  page 110
+> page 110 of Land & Property Research in the United States, 2nd edition, by E. Wade Hone
 
 Auctions were usually held when an area first opned for public sale. Soon afterward, local land offices opened for business to
 where settlers applied on a "first come, first serve" basis for each segment of land.
@@ -25,7 +25,7 @@ full. After full payment was made a receipt issued[^3].
 
 > Once the application was completed, cash was paid, or appropirate arrangements made for credit and a **receipt** was issued.
 >
-> --  page 111
+> page 111 of Land & Property Research in the United States, 2nd edition, by E. Wade Hone
 
 After payment was made…​.
 
