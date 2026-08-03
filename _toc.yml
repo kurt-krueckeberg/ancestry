@@ -8,6 +8,21 @@ parts:
       - file: ancestry/johann-heinrich-krueckeberg-identity-problem
       - file: ancestry/soldier-weiland
 
+  - caption: Federal Land Records
+    chapters:
+      - file: index
+        sections: 
+         - file: federal-land-acquisition
+         - file: land-acts
+         - file: residency-and-naturalization
+         - file: indiana-land-records
+         - file: swamplands-act
+           sections:
+           - file: indiana-boondoggle
+         - file: viewing-plss
+         - file: records-land-and-other
+         - file: plats
+
   - caption: Surname
     chapters:
       - file: surname/krueckeberg-distribution
