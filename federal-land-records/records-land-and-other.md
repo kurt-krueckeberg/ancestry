@@ -12,6 +12,7 @@ To navigate to the Land Records, follow this path: [Mircotext Catalog](https://w
 
 After removing the results for counties other than **Allen** and **Adams**, you get:
 
+(land-records)=
 ```{list-table}
 :header-rows: 1
 
@@ -133,8 +134,9 @@ Indianapolis office. I believe its records were merge with the Indianapolis offi
 
 ### Adams County
 
-See the general land records[above](general-land-recs) that includes the Fort Wayne and Indianapolis land office records (and others)
-since the Fort Wayne district office handled Adams county land sales.
+See the general land records[above](#land-records) that includes the
+Fort Wayne and Indianapolis land office records (and others) since the Fort
+Wayne district office handled Adams county land sales.
 
 The **U.S Census Agricultural Schedule for Indiana** on Microfilm. Navigation path:
 [GenealogyCenter.org](//https:genealogycenter.info) →
