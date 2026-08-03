@@ -1,5 +1,9 @@
 # Plan
 
+## Move the `~/antora-genealogy/m/persons` files to `~/anc`
+
+Move only files that are also in `~/anc`.
+
 ## Consolidate Research Ideas/Plan Here
 
 - Move the files that are in `~/gen/m/research` to this site.
