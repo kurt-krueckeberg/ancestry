@@ -30,11 +30,11 @@ After payment was made…​.
 
 TODO: complete the steps.
 
-## References
+## Citations
 
 (hone-book)=
 
-[hone-book] Hone, E. Wade, *Land & Property Research in the United States* (Provo Utah, Ancestry Publishing, 1997)
+Hone, E. Wade. Land and Property Research. Ancestry.com, 2008.
 
 (page-110)=
 

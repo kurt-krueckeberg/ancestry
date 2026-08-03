@@ -205,7 +205,7 @@ Book [Land & Property Research in the United States by E. Wade Hone](https://arc
 
 ### PERSI
 
-TODO: Add from PERSI page in m.research
+TODO: Add from PERSI page in modules/research/persi
 
 ## Allen County Genealogical Society (ACGSI)
 
