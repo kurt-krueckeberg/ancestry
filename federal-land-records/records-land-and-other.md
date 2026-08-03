@@ -139,7 +139,7 @@ Fort Wayne and Indianapolis land office records (and others) since the Fort
 Wayne district office handled Adams county land sales.
 
 The **U.S Census Agricultural Schedule for Indiana** on Microfilm. Navigation path:
-[GenealogyCenter.org](//https:genealogycenter.info) →
+[GenealogyCenter.org](https://www.genealogycenter.info) →
 [microfilm catalog](https://www.genealogycenter.info/search_microtext.php) → Census Records → Agricultural
 
 ```{list-table} Agricultural Schedule microfilm for Adams CO IN
