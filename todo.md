@@ -10,6 +10,9 @@
 2. Create separate 1853-school-enumeration files for each individual rather
    that just one.
 
+3. Carl Friedrich Bleeke is NOT list in the 1853 schoold enumeration for
+   Adams county. Remove him from the antora-genealogy/m/persons/ navigation
+   in ist `paritals` subfolder
 
 ## Consolidate Research Ideas/Plan Here
 
