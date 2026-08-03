@@ -235,7 +235,7 @@ Agricultural Schedules. Other entities with available copies are also given belo
 
 ### FamilySearch Images
 
-FamilySearch has unindexed images of {external+https:doc}`Agricultural Census: Indiana. Agricultural Census Records 1860, Tippecanoe-Whitley counties </61903/3:1:3QHN-LQLW-V7W2?view=explore&groupId=TH-7736-127051-15710-40>`.
+FamilySearch has unindexed images of {external+https:doc}`Agricultural Census: Indiana. Agricultural Census Records 1860, Tippecanoe-Whitley counties <https://www.familysearch.org/ark:/61903/3:1:3QHN-LQLW-V7W2?view=explore&groupId=TH-7736-127051-15710-40&lang=en>`
 It does not have Adams county.
 
 ### NARA
