@@ -18,7 +18,7 @@ After removing the results for counties other than **Allen** and **Adams**, you 
 
 * - County
   - Name
-  - # of Items
+  - `#` of Items
   - Media
   - Filed Under:
 * - *General
