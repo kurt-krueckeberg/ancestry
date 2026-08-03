@@ -2,7 +2,7 @@
 
 ## Genealogy Center
 
-The [Genealogy Center](https://genealogycenter.info) has the land records on 35mm microfilm as well as
+The [Genealogy Center](https://www.genealogycenter.info) has the land records on 35mm microfilm as well as
 other land-related volumes like map books.
 
 ### Land Records
