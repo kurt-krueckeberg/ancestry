@@ -36,4 +36,3 @@ TODO: complete the steps.
 [^2]: *Ibid*, page 110
 
 [^3]: *Ibid*, page 111
-
