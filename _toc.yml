@@ -31,7 +31,7 @@ parts:
   - caption: Johann Heinrich Philipp Bleeke
     chapters:
       - file: bleeke/jhp-bleeke/jhp-bleeke-land-patents
-      - file: bleeke/1853-school-enumeration
+      - file: bleeke/1853-school-enumeration-bleeke
 
   - caption: Carl Friedrich Bleeke
     chapters:
@@ -70,7 +70,7 @@ parts:
       - file: petzen/PET-B-1806a
         title: 1806 Baptism
       - file: krückeberg/johann-heinrich/johann-heinrich-krueckeberg-naturalization
-      - file: krückeberg/1853-school-enumeration
+      - file: krückeberg/1853-school-enumeration-krueckeberg
 
   - caption: Surname
     chapters:
