@@ -31,8 +31,6 @@ After payment was made…​.
 
 TODO: complete the steps.
 
-## Citations
-
 [^1]: Hone, E. Wade. Land and Property Research. Ancestry.com, 2008.
 
 [^2]: *Ibid*, page 110
