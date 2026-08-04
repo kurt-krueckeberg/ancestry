@@ -2,17 +2,7 @@
 
 ## Moving the `~/antora-genealogy/m/persons` files to `~/anc`
 
-1. Convert the `~/doc/modules/bleeke/page/1853-school-enumeration.adoc` and
-   the `~/doc/modules/krueckeberg/pages/1853-school-enumeration` so that they
-   do use a table format that not result in their being converted by adoc2jb1
-   to raw html table placed in _table_artifacts. 
-
-2. Create separate 1853-school-enumeration files for each individual rather
-   that just one.
-
-3. Carl Friedrich Bleeke is NOT list in the 1853 schoold enumeration for
-   Adams county. Remove him from the antora-genealogy/m/persons/ navigation
-   in ist `paritals` subfolder
+Get rid of compile errors.
 
 ## Consolidate Research Ideas/Plan Here
 
