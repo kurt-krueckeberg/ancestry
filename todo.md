@@ -2,7 +2,7 @@
 
 ## Moving the `~/antora-genealogy/m/persons` files to `~/anc`
 
-Get rid of compile errors.
+Get rid of compile errors. Simplify the structure.
 
 ## Consolidate Research Ideas/Plan Here
 
