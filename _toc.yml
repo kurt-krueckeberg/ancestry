@@ -30,8 +30,8 @@ parts:
 
   - caption: Johann Heinrich Philipp Bleeke
     chapters:
-      - file: bleeke/jhp-bleeke/jhp-bleeke-land-patents
-      - file: bleeke/1853-school-enumeration-bleeke
+      - file: bleeke/jhp-bleeke-land-patents
+      - file: bleeke/jhp-bleeke-1853-school-enumeration-bleeke
 
   - caption: Carl Friedrich Bleeke
     chapters:
@@ -42,7 +42,7 @@ parts:
 
   - caption: Christian Friedrich Bleeke
     chapters:
-      - file: bleeke/1853-school-enumeration
+      - file: bleeke/cf-bleeke-1853-school-enumeration
 
   - caption: Maria Louise Eleonore Bleeke
     chapters:
@@ -50,8 +50,6 @@ parts:
 
   - caption: Krückeberg — Carl Friedrich
     chapters:
-      - file: petzen/PET-B-1807a
-        title: 1807 Baptism
       - file: krückeberg/carl-friedrich-familie-immigration
       - file: krückeberg/1853-school-enumeration
       - file: krückeberg/carl-friedrich/federal-land-records

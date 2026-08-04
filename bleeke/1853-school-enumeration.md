@@ -8,9 +8,51 @@ downloaded [here](shared-surname-assets:attachment$AdamsUnionTwpSchoolEnum1853.p
 
 The entries for "Christian F. Bleakey" and "John  H Bleakey" are found on the 3th page.
 
-Enumerations Continued
+```{list-table} Enumerations Continued
+:header-rows: 1
 
-```{include} _table-artifacts/1853-school-enumeration-table-01.html
+* - Names Parents & Guardians
+  - Number of children in the family
+  - Males between 5 and 13
+  - Males between 13 and 21
+  - Females between 5 and 13
+  - Females between 13 and 21
+  - School
+* - Aaron Carpenter
+  - 2
+  - 2
+  - 0
+  - 0
+  - 0
+  - No. 5
+* - several omitted
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+* - Christian F. Bleakey
+  - 3
+  - 0
+  - 1
+  - 2
+  - 0
+  - No. 4
+* - John H. Bleakey
+  - 2
+  - 1
+  - 0
+  - 0
+  - 1
+  - No. 4
+* - remaining entries omitted
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 ```
 
 ```{image} ../shared-surname-assets/images/page3-AdamsUnion1853SchoolEnum.jpg
