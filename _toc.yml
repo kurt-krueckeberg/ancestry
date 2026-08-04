@@ -38,7 +38,6 @@ parts:
       - file: bleeke/cf-bleeke-bio
         title: Biography
       - file: bleeke/carl-friedrich-bleeke-family-us-arrival
-      - file: bleeke/1853-school-enumeration
 
   - caption: Christian Friedrich Bleeke
     chapters:
@@ -59,7 +58,7 @@ parts:
 
   - caption: Krückeberg — Karl Heinrich Wilhelm
     chapters:
-      - file: krückeberg/carl-friedrich-familie-immigration
+      - file: krückeberg/chw-krueckeberg-familie-immigration
       - file: krückeberg/carl-heinrich-wilhelm/chw_krueckeberg_naturalization_oath_nov_4_1856
       - file: krückeberg/carl-heinrich-wilhelm/chw_krueckeberg_naturalization_1890
 
