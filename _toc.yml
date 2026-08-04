@@ -51,22 +51,22 @@ parts:
     chapters:
       - file: krückeberg/carl-friedrich-familie-immigration
       - file: krückeberg/1853-school-enumeration
-      - file: krückeberg/carl-friedrich/federal-land-records
-      - file: krückeberg/carl-friedrich/state-land-records
-      - file: krückeberg/carl-friedrich/naturalization
+      - file: krückeberg/carl-friedrich-federal-land-records
+      - file: krückeberg/carl-friedrich-state-land-records
+      - file: krückeberg/carl-friedrich-naturalization
       - file: krückeberg/census
 
   - caption: Krückeberg — Karl Heinrich Wilhelm
     chapters:
       - file: krückeberg/chw-krueckeberg-familie-immigration
-      - file: krückeberg/carl-heinrich-wilhelm/chw_krueckeberg_naturalization_oath_nov_4_1856
-      - file: krückeberg/carl-heinrich-wilhelm/chw_krueckeberg_naturalization_1890
+      - file: krückeberg/chw_krueckeberg_naturalization_oath_nov_4_1856
+      - file: krückeberg/chw_krueckeberg_naturalization_1890
 
   - caption: Krückeberg — Johann Heinrich
     chapters:
       - file: petzen/PET-B-1806a
         title: 1806 Baptism
-      - file: krückeberg/johann-heinrich/johann-heinrich-krueckeberg-naturalization
+      - file: krückeberg/johann-heinrich-krueckeberg-naturalization
       - file: krückeberg/1853-school-enumeration-krueckeberg
 
   - caption: Surname
