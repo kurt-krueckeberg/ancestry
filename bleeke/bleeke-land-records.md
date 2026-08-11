@@ -15,8 +15,11 @@ land office tract book, volume 2. Below is the page on which the Bleekes appear:
 :class: image-override
 ```
 
-appear in Volume 2 of the Fort Wayne General Land Office tract books. They are on image 238 of 288 images of this volume found on
-{external+https:doc}`Family Search </61903/3:1:3QS7-99WS-RH8X?wc=M7WQ-V3N%3A356163201%2C356292201&cc=2074276&i=237>`.
+appear in Volume 2 of the Fort Wayne General Land Office tract books. Here is the citation:
+
+"United States, Bureau of Land Management Tract Books, 1800-c. 1955," database with images, FamilySearch
+(<https://familysearch.org/ark:/61903/3:1:3QS7-99WS-RH8X?cc=2074276&wc=M7WQ-V3N%3A356163201%2C356292201> : 28 February 2023),
+Indiana > Vol 2 (Fort Wayne) > image 238 of 288; Records Improvement, Bureau of Land Management, Washington D.C.
 
 ```{note}
 The "ditto" quote marks below in the Section, Township and Range, columns represent the values 21, 28, and 15, respectively,
