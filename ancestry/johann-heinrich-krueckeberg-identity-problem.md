@@ -1,5 +1,21 @@
 # The Johann Heinrich Krückeberg Identity Problem: The 1744 Baptism, 1761 Marriage, and 1822 Death
 
+Are the parents of children whose births or baptisms are recorded in the
+Petzen chuirch registers restricted to couples who marriages were recorded 
+in the Petzen church registers?
+
+**TODOES:** 
+
+* In the paragraph below, focus on whether the Johann Heinrich
+  Krückeberg who married in 1761 is the same Johann Heinrich Krückeberg
+  who was born in 1744.
+* We need to first establish what faily identities-and-relationships can be proven
+  from the most recent past to the most distant past. This will involve using
+  both church registers and archive documents.
+* We need to proof what is know, then pose a research questions, list
+  sources, and research and log what is found. Then analyze by correlating
+  information.
+
 The FamilySearch tree currently treats the Johann Henrich Krückeberg
 baptized in Petzen on {external+genealogy:doc}`19 January 1744 baptism
 record <petzen/PET-B-1744a>`, the Johann Heinrich Krückeberg of Berenbusch
@@ -23,10 +39,6 @@ birth around 31 December 1743, while no corresponding December 1743 baptism
 or birth entry for Johann Henrich Krückeberg has been found. The 19 January
 1744 baptism is therefore a plausible candidate, but not a proved
 identification.
-
-Are the parents of children whose births or baptisms are recorded in the
-Petzen chuirch registers restricted to couples who marriages were recorded 
-in the Petzen church registers?
 
 A same-name, same-village match may make the 1744 baptismal child a
 **plausible candidate** for the 1761 groom, especially in a small village
