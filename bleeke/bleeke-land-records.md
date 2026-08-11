@@ -40,17 +40,24 @@ Tract Book Volume 2, Fort Wayne land office
 
 (image528-1)=
 
-[image528-1] "United States Bureau of Land Management Tract Books, 1800-c. 1955", , FamilySearch ({external+https:doc}`https://www.familysearch.org/ark:1:1:6KD7-37XL </61903/1:1:6KD7-37XL>` : Mon Sep 16 11:19:34 UTC 2024), Entry for Johann Heinrich Philip Bleeke, 10 Dec 1838.
+"United States Bureau of Land Management Tract Books, 1800-c. 1955", FamilySearch
+(<https://www.familysearch.org/ark:/61903/1:1:6KD7-37XL> : Mon Sep 16 11:19:34 UTC 2024),
+Entry for Johann Heinrich Philip Bleeke, 10 Dec 1838.
 
 (image528-2)=
 
-[image528-2] "United States Bureau of Land Management Tract Books, 1800-c. 1955", , FamilySearch ({external+https:doc}`https://www.familysearch.org/ark:1:1:6KD7-37XP </61903/1:1:6KD7-37XP>` : Mon Sep 16 11:23:33 UTC 2024), Entry for Johann Heinrich Philip Bleeke, 10 Dec 1838.
+"United States Bureau of Land Management Tract Books, 1800-c. 1955", FamilySearch
+(<https://www.familysearch.org/ark:/61903/1:1:6KD7-37XP> : Mon Sep 16 11:23:33 UTC 2024),
+Entry for Johann Heinrich Philip Bleeke, 10 Dec 1838.
 
 (image528-3)=
 
-[image528-3] "United States Bureau of Land Management Tract Books, 1800-c. 1955", , FamilySearch ({external+https:doc}`https://www.familysearch.org/ark:1:1:6KD7-37XG </61903/1:1:6KD7-37XG>` : Mon Sep 16 11:22:04 UTC 2024), Entry for Carl Friedrich Bleeke, 10 Dec 1838.
+"United States Bureau of Land Management Tract Books, 1800-c. 1955", FamilySearch
+(<https://www.familysearch.org/ark:/61903/1:1:6KD7-37XG> : Mon Sep 16 11:22:04 UTC 2024),
+Entry for Carl Friedrich Bleeke, 10 Dec 1838.
 
 (image528-4)=
 
-[image528-4] "United States Bureau of Land Management Tract Books, 1800-c. 1955", , FamilySearch ({external+https:doc}`https://www.familysearch.org/ark:1:1:6KD7-37X5 </61903/1:1:6KD7-37X5>` : Mon Sep 16 12:26:02 UTC 2024), Entry for Christian Friedrich Bleeke, 6 Jul 1847.
-
+"United States Bureau of Land Management Tract Books, 1800-c. 1955", FamilySearch
+(<https://www.familysearch.org/ark:/61903/1:1:6KD7-37X5> : Mon Sep 16 12:26:02 UTC 2024),
+Entry for Christian Friedrich Bleeke, 6 Jul 1847.
