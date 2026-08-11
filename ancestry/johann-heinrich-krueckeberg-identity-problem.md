@@ -25,8 +25,8 @@ or birth entry for Johann Henrich Krückeberg has been found. The 19 January
 identification.
 
 Are the parents of children whose births or baptisms are recorded in the
-Petzen chuirch registers restricted to only couple who married in the
-Petzen church?
+Petzen chuirch registers restricted to couples who marriages were recorded 
+in the Petzen church registers?
 
 A same-name, same-village match may make the 1744 baptismal child a
 **plausible candidate** for the 1761 groom, especially in a small village
