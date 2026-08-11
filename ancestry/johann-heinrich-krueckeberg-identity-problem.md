@@ -24,6 +24,10 @@ or birth entry for Johann Henrich Krückeberg has been found. The 19 January
 1744 baptism is therefore a plausible candidate, but not a proved
 identification.
 
+Are the parents of children whose births or baptisms are recorded in the
+Petzen chuirch registers restricted to only couple who married in the
+Petzen church?
+
 A same-name, same-village match may make the 1744 baptismal child a
 **plausible candidate** for the 1761 groom, especially in a small village
 with apparently one Krückeberg family. But it does **not by itself prove
