@@ -79,7 +79,23 @@ thing as a proven groom. The problem is that the current evidence links
 them chiefly by **name + village + absence of an obvious alternative**,
 which is suggestive but not conclusive.
 
-## Correlating Actual Marriage Ages from 17xx-17yy
+## Correlating Actual Marriage Ages from 17xx-18yy
+
+## Actual Studies
+
+Jürgen Schlumbohm, Lebensläufe, Familien, Höfe (Göttingen: Vandenhoeck &
+Ruprecht, 1994), p. 100.
+
+It contains a graph of marriage ages in Belm by decade and social class,
+including 1741–1770. Men in those decades generally married around their
+late 20s, making a 17-year-old groom highly unusual.
+
+The graph is reproduced in University of Münster lecture slides, PDF p. 6 /
+slide 11:
+
+<https://www.wiwi.uni-muenster.de/wisoge/sites/wisoge/files/downloads/skripte/familie_neuzeit/s03_heirat_folien.pdf>
+
+## Emperical Petzen Findings
 
 Marriages record in the Petzen parish before 1805 do not give the ages of the bride
 and groom. However, for several marriages in the 161 timeframe, we can
