@@ -88,3 +88,4 @@ parts:
           - file: hofname/hofname-in-church-registers
           - file: hofname/suranems-nonimmutable
           - file: hofname/hofname-vs-surname
+      - file: diseases/rote-and-weisse-ruhr
